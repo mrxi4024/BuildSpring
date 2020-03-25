@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/BuildSpring.iml" filepath="$PROJECT_DIR$/.idea/BuildSpring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BulidSpring.iml" filepath="$PROJECT_DIR$/BulidSpring.iml" />
     </modules>
   </component>
 </project>
